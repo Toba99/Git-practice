@@ -24,3 +24,8 @@ git commit -m 'first commit' : save it permanently.
 git remote add origin <url>: connect to github
 
 git push origin main: uploade to github
+
+git checkout -b <nameof branch> : create and enter the new branch
+
+ne wchanges to the repo.
+
